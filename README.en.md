@@ -1,36 +1,40 @@
-# note-warp
+<h1 align="center">📔 note-warp</h1>
 
-#### Description
-{**When you're done, you can delete the content in this README and update the file with details for others getting started with your repository**}
+<p align="center">
+<a target="_blank" href="https://github.com/zhouboyi1998/note-warp"> 
+<img src="https://img.shields.io/github/stars/zhouboyi1998/note-warp?logo=github">
+</a>
+<a target="_blank" href="https://opensource.org/licenses/MIT"> 
+<img src="https://img.shields.io/badge/license-MIT-red"> 
+</a> 
+<img src="https://img.shields.io/badge/Rust-1.83.0-orange">
+<img src="https://img.shields.io/badge/Warp-0.3-hotpink">
+</p>
 
-#### Software Architecture
-Software architecture description
+### 📖 Language
 
-#### Installation
+[简体中文](./README.md) | English
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+### ⌛ Start
 
-#### Instructions
+#### Run
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+```bash
+cargo run
+```
 
-#### Contribution
+#### Debug build
 
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+```bash
+cargo build
+```
 
+#### Release build
 
-#### Gitee Feature
+```bash
+cargo build --release
+```
 
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+### 📜 Licence
+
+[MIT License](https://opensource.org/licenses/MIT) Copyright (c) 2022 周博义
